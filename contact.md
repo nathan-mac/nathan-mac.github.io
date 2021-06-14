@@ -4,6 +4,6 @@ title: Contact Me
 permalink: /contact/
 ---
 
-Hi
-[Email](nathanmac777@hotmail.com)
-[github](https://github.com/nathan-mac)
+### Hi
+
+Contact me through [email](nathanmac777@hotmail.com) or [github](https://github.com/nathan-mac)!
