@@ -4,4 +4,4 @@ title: Home
 permalink: /
 ---
 
-[Contact]https://nathan-mac.github.io/contact/
+[Contact](https://nathan-mac.github.io/contact/)
