@@ -151,17 +151,17 @@ body {
 }
 
 #username span {
-  font-size: 24px;
+  font-size: 14px;
 }
 
 #userbio {
-  font-size: 26px;
+  font-size: 14px;
   font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   width: 100%;
 }
 
 #about {
-  font-size: 18px;
+  font-size: 12px;
   font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
