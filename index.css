@@ -138,6 +138,7 @@ body {
   border-radius: 5px;
   background-size: cover !important;
   background-repeat: no-repeat !important;
+  object-position: 0% 20%;
 }
 
 #profile div {
