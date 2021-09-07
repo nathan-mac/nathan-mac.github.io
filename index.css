@@ -239,6 +239,13 @@ body {
   word-wrap: break-word;
 }
 
+.section_title img {
+  width: 20px;
+  height: 20px;
+  max-width: 20px;
+  max-height: 20px;
+}
+
 .about_section {
   font-size: 18px;
   font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
