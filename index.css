@@ -142,7 +142,7 @@ body {
   margin: 1.5vh 0px;
 }
 
-#profile span i {
+#profile span a {
   font-size: 20px;
   color: #fff !important;
   text-decoration: none;
