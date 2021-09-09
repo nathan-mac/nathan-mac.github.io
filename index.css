@@ -144,6 +144,9 @@ body {
 
 #profile span i {
   font-size: 20px;
+  color: #fff !important;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 #username {
