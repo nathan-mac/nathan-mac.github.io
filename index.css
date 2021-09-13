@@ -315,6 +315,11 @@ body {
   background: var(--text-color);
 }
 
+a:visited {
+  text-decoration: none;
+  color:lightblue;
+}
+
 @media (max-width: 800px) {
   #profile {
     width: 90vw;
@@ -380,7 +385,7 @@ body {
 }
 :root {
   --bg-color: black;
-  --text-color: #267CB9;
+  --text-color:lightblue;
   --background-image: linear-gradient(
       90deg,
       rgba(10, 10, 10, 0.3),
