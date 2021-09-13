@@ -320,6 +320,10 @@ a:visited {
   color:lightblue;
 }
 
+a:hover {
+  text-shadow: 1px 1px 2px black;
+}
+
 @media (max-width: 800px) {
   #profile {
     width: 90vw;
