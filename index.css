@@ -359,7 +359,7 @@ a:hover {
   }
 
   .projects a {
-    width: 100%;
+    width: fit-content;
   }
 
   .projects section {
